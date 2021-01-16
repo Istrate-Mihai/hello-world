@@ -1,4 +1,4 @@
 # hello-world
-Initial Repository
-My name is Istrate Mihai,i am from Romania,and i've just started learning web technologies.
-The changes i've made to this branch are these messages.
+Initial Repository<br>
+My name is Istrate Mihai,I am from Romania,and I've just started learning web technologies.
+The changes I've made to this branch are these messages.
